@@ -22,6 +22,7 @@ website:
       - intuition.qmd
       - computation.qmd
       - posterior_gallery.qmd
+      - extensions.qmd
 
 format:
   html:

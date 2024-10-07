@@ -1,5 +1,40 @@
 ---
 title: Building intuition
+bibliography: references.bib
 ---
 
+Imagine taking a unit of heat, and placing it on the vertex of a mesh. If you allowed time to progress, that heat would slowly diffuse across the mesh's surface.
+
+In the example below, I have simulated exactly that process on the surface of a neuron mesh. I ran this experiment 3 times: once at a soma, once at a dendritic shaft, and once at a spine head. Below, you can see how the heat (represented as red) diffuses across the mesh at 4 different time points. Note that I am using the same color bar for each panel.
+
 ![](./images/heat_diffusion_gallery.svg)
+
+Clearly, heat diffuses differently at these three locations. Because the soma is relatively broad and flat, the heat can quickly go anywhere, so it tends to spread out. In contrast, the spine neck creates a very small bottleneck for diffusion, so it tends to stay trapped in the spine head for the longest time. The dendritic shaft is somewhere in between.
+
+In @sun2009, the authors describe a method they call the **heat kernel signature (HKS)** for building the above intuition into a compact feature set on manifolds (for our purposes, meshes).
+
+Let $k_{\tau}(x, y)$ be the amount of heat that diffuses from point $x$ to point $y$ after time $\tau$. The authors then consider $k_{\tau}(x, x)$; in other words, how much heat is left at $x$ after some amount of time $\tau$. Then, for some set of timescales $T = \{\tau_1, \tau_2, ... \tau_d\}$, the HKS for a node $x$ is
+
+$$HKS(x) = [k_{\tau_1}(x,x), k_{\tau_2}(x,x), ..., k_{\tau_d}(x,x)]$$
+
+Let's look at what this feature set would look like for the example we used above where we have a soma, a shaft, and a spine head:
+
+![](./images/heat_diffusion_curves.svg)
+
+Why would this be a helpful feature set for object classification, shape matching, object retreival, etc.? Figure 5 from ...
+
+Let's look at how the HKS behaves on this mesh for different timescales. Here, I'm using a cutout of a neuron's mesh around its soma.
+
+<!-- ![](./images/hks_timescale_gallery.svg) -->
+
+::: {.panel-tabset group='format'}
+
+## SVG (static)
+
+![](./images/hks_timescale_gallery.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/hks_timescale_gallery.html"></iframe>
+
+:::

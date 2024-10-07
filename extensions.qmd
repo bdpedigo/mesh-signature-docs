@@ -1,0 +1,19 @@
+---
+title: Extensions and related work
+bibliography: references.bib
+---
+
+-   Wave kernel signature [@aubry2011]
+-   Prior work on RF on kernel signatures [@rodola2014]
+-   Scale-invariant kernel signatures [@bronstein2010]
+-   Higher-order aggregations on top of signatures
+    -   Bag of features/TF-IDF [@bronstein2011]
+-   Discriminant analysis on eigenfunctions [@litman2014]
+-   Skeletonization [@au2008]
+-   Semantic skeletonization [@meyer2023; @degoes2008]
+-   Chebyshev approximation or numerical integration methods [@bähr2018; @köhler2021]
+-   General spectral filters on shape [@vallet2008]
+-   Mesh simplification [@lescoat2020]
+-   Neural network extensions
+    -   DiffusionNet [@sharp2022]
+    -   HodgeNet [@smirnov2021]

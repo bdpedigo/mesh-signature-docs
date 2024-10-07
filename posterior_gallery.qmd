@@ -4,7 +4,7 @@ title: Gallery of mesh posteriors
 
 ## 864691135059817627
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135059817627_posterior_rf.html"></iframe>
+<iframe name='864691135059817627' width="800" height="600" src="./images/mesh_posteriors/864691135059817627_posterior_rf.html"></iframe>
 
 ## 864691135114295961
 
