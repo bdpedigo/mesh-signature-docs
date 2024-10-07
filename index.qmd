@@ -1,0 +1,7 @@
+---
+title: "Mesh signatures"
+---
+
+Documenting work on using mesh signatures for representations of morphology.
+
+![](./images/heat_diffusion_gallery.svg)

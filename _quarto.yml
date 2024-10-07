@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Mesh signatures"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    tools:
+      - icon: github
+        menu:
+          - text: Source
+            href: 
+          - text: Issues 
+            href:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - intuition.qmd
+      - computation.qmd
+      - posterior_gallery.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
