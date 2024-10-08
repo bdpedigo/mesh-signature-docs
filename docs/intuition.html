@@ -166,6 +166,12 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./classifier.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Creating a classifier</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./posterior_gallery.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Gallery of mesh posteriors</span></a>
   </div>
@@ -228,6 +234,22 @@ div.csl-indent {
 </div>
 </div>
 </div>
+<p>If we cluster the points on the mesh on the basis of their HKS, we get profiles like this:</p>
+<p><img src="./images/hks_clustermap.png" class="img-fluid"></p>
+<p>And most importantly, viewed on the mesh itself:</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset" data-group="format">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true">SVG (static)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false">HTML (dynamic)</a></li></ul>
+<div class="tab-content" data-group="format">
+<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
+<p><img src="./images/hks_clustered.svg" class="img-fluid"></p>
+</div>
+<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
+<iframe width="800" height="600" src="./images/hks_clustered.html">
+</iframe>
+</div>
+</div>
+</div>
+<p>This at least suggests that heat kernel signatures could provide a basis for automated labeling of spines, shafts, somas, and perhaps other features of mesh morphologies. Next, we’ll look at how I am actually computing these representations.</p>
 
 
 

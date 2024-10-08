@@ -2,74 +2,250 @@
 title: Gallery of mesh posteriors
 ---
 
-## 864691135059817627
+<!-- ## 864691135059817627
 
-<iframe name='864691135059817627' width="800" height="600" src="./images/mesh_posteriors/864691135059817627_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135059817627_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135059817627_posterior_rf.html"></iframe>
+
+::: -->
 
 ## 864691135114295961
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135114295961_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135114295961_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135114295961_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135256861871
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135256861871_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135256861871_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135256861871_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135361314119
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135361314119_posterior_rf.html"></iframe>
+::: {.panel-tabset}
 
-## 864691135468657292
+## SVG (static)
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135468657292_posterior_rf.html"></iframe>
+![](./images/posteriors/864691135361314119_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135361314119_posterior_rf.html"></iframe>
+
+:::
+
+<!-- ## 864691135468657292
+
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135468657292_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135468657292_posterior_rf.html"></iframe>
+
+::: -->
 
 ## 864691135492613471
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135492613471_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135492613471_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135492613471_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135492614239
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135492614239_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135492614239_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135492614239_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135639556411
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135639556411_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135639556411_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135639556411_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135655390658
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135655390658_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135655390658_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135655390658_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135738047620
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135738047620_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135738047620_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135738047620_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135759685966
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135759685966_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691135759685966_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691135759685966_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691135975730287
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691135975730287_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+![](./images/posteriors/864691135975730287_posterior_rf.svg)
+
+## HTML (dynamic)
+<iframe width="800" height="600" src="./images/posteriors/864691135975730287_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691136090326071
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691136090326071_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+![](./images/posteriors/864691136090326071_posterior_rf.svg)
+
+## HTML (dynamic)
+<iframe width="800" height="600" src="./images/posteriors/864691136090326071_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691136137805181
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691136137805181_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691136137805181_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691136137805181_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691136175901190
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691136175901190_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691136175901190_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691136175901190_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691136237725199
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691136237725199_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691136237725199_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691136237725199_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691136274074046
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691136274074046_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691136274074046_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691136274074046_posterior_rf.html"></iframe>
+
+:::
 
 ## 864691136452245759
 
-<iframe width="800" height="600" src="./images/mesh_posteriors/864691136452245759_posterior_rf.html"></iframe>
+::: {.panel-tabset}
+
+## SVG (static)
+
+![](./images/posteriors/864691136452245759_posterior_rf.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/posteriors/864691136452245759_posterior_rf.html"></iframe>
+
+:::

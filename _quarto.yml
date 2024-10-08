@@ -21,6 +21,7 @@ website:
     contents:
       - intuition.qmd
       - computation.qmd
+      - classifier.qmd
       - posterior_gallery.qmd
       - extensions.qmd
 

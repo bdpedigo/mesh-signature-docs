@@ -38,3 +38,24 @@ Let's look at how the HKS behaves on this mesh for different timescales. Here, I
 <iframe width="800" height="600" src="./images/hks_timescale_gallery.html"></iframe>
 
 :::
+
+If we cluster the points on the mesh on the basis of their HKS, we get profiles like this:
+
+![](./images/hks_clustermap.png)
+
+
+And most importantly, viewed on the mesh itself:
+
+::: {.panel-tabset group='format'}
+
+## SVG (static)
+
+![](./images/hks_clustered.svg)
+
+## HTML (dynamic)
+
+<iframe width="800" height="600" src="./images/hks_clustered.html"></iframe>
+
+:::
+
+This at least suggests that heat kernel signatures could provide a basis for automated labeling of spines, shafts, somas, and perhaps other features of mesh morphologies. Next, we'll look at how I am actually computing these representations.
